@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on decentrakised applications and application developements<br>I'm looking to collaborate on blockchain<br>I'm currently learning blockchain <br><br>
+I'm currently working on decentralised applications and application developements<br>I'm looking to collaborate on blockchain<br>I'm currently learning blockchain <br><br>
 
 
 ## 🌐 Socials:
