@@ -11,8 +11,4 @@ I'm currently working on ethereum projects<br>I'm looking to collaborate on web3
 ### ✍️ Qoute of the day
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-
----
-[![](https://visitcount.itsvg.in/api?id=shrilakshmikakati&icon=0&color=0)](https://visitcount.itsvg.in)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
