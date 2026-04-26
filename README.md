@@ -1,5 +1,5 @@
 # 💫 About Me:
-I'm currently working on ethereum projects<br>I'm looking to collaborate on web3 based projects<br>I'm currently learning MERN stack
+Hi, I'm Shrilakshmi K, I am fullstack developer and web3 developer. I am open to opensource contributions.
 
 
 ## 🌐 Socials:
