@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shrilakshmi K, I am fullstack developer and web3 developer. I am open to opensource contributions.
+Hi, I'm Shrilakshmi K, I am fullstack developer and web3 developer. I am open to opensource contributions. My personal favorites projects are zkcertificates and Cool-mining projects its repos are present in my profile. 
 
 
 ## 🌐 Socials:
