@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm Shrilakshmi K, I am fullstack developer and web3 developer. I am open to opensource contributions. My personal favorites projects are zkcertificates and Cool-mining projects its repos are present in my profile. 
+Hi, I'm Shrilakshmi K, I am fullstack developer and web3 developer. I am open to opensource contributions. My personal favorites projects are zkcertificates and Cool-mining projects its repos are present in my profile. I have worked on Layer 2 Ethereum blockchain projects and bitcoin based projects. I have previously participated in Social Winter of Code (SWOC 2026) and will be contributing in Social summer of code.
 
 
 ## 🌐 Socials:
